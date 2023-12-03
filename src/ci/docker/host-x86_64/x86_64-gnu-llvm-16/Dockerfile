@@ -1,4 +1,4 @@
-FROM ubuntu:23.04
+FROM ubuntu:mantic
 
 ARG DEBIAN_FRONTEND=noninteractive
 
